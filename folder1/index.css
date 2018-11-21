@@ -8,21 +8,3 @@ div {
 .container {
     width: 100%;
 }
-
-
-body {
-    margin: 0;
-      margin-left: 0;
-      margin-right: 0;
-      margin-top: 0;
-      margin-bottom: 0;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #212529;
-    text-align: left;
-    background-color: #fff;
-    box-sizing: inherit;
-    width: inherit;
-    display: block;
-}
