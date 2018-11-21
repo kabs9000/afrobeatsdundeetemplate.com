@@ -8,29 +8,7 @@ div {
 .container {
     width: 100%;
 }
-.container {
-    padding-right: 0px;
-    padding-left: 0px;
-    margin-right: inherit;
-    margin-left: inherit;
-    width:-webkit-fill-available;
-}
 
-.carousel_slide {
-  padding-right: 0px;
-  padding-left: 0px;
-  margin-right: inherit;
-  margin-left: inherit;
-  width:-webkit-fill-available;
-}
-
-element.style {
-    width: -webkit-fill-available;
-}
-img {
-    vertical-align: middle;
-    border-style: none;
-}
 
 body {
     margin: 0;
