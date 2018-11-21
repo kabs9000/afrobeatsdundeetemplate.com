@@ -1,14 +1,15 @@
 div {
     background-color: lightblue;
-    width: ;
-    margin: 0;
-
+    width:-webkit-fill-available;
 }
 
 .container{
-  width:100%;
+  width:-webkit-fill-available;
 }
 
+element.style {
+    width: -webkit-fill-available;
+}
 img {
     vertical-align: middle;
     border-style: none;
