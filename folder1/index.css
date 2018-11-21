@@ -16,6 +16,14 @@ div {
     width:-webkit-fill-available;
 }
 
+.carousel_slide {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: inherit;
+  margin-left: inherit;
+  width:-webkit-fill-available;
+}
+
 element.style {
     width: -webkit-fill-available;
 }
