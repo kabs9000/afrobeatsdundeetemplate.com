@@ -5,7 +5,7 @@ First CV website draft
 
 This Repo contains info from the following labs:
 
-* Week 3 HTML Lab - <a href="folder1/index.html">Kabir's HTML CV</a>
+* Week 3 HTML Lab - <a href="folder1/index.html">Kabir's CV INDEX</a>
 
 
 this is made by @kabs9000
