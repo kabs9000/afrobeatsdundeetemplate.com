@@ -3,8 +3,17 @@ div {
     width:-webkit-fill-available;
 }
 
-.container{
-  width:-webkit-fill-available;
+
+@media (min-width: 768px)
+.container {
+    width: 750px;
+}
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: inherit;
+    margin-left: inherit;
+    width:-webkit-fill-available;
 }
 
 element.style {
