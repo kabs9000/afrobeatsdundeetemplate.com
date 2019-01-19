@@ -1,3 +1,4 @@
+
 # Afrobeats Template
 Template for afrobeats.com
 
@@ -5,8 +6,9 @@ Template for afrobeats.com
 
 This Repo contains info from the following labs:
 
-<a href="google.com">Link to the site - /a>
+* Week 3 HTML Lab - <a href="folder1/index.html">Kabir's CV INDEX</a>
+<a href="folder1/index.html">Link to the site - /a>
 
 
+this is made by @kabs9000
 this is made by K24K Designs, Kabir Kumar
-
