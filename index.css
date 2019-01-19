@@ -7,7 +7,17 @@ header {
   overflow: hidden;
 }
 
-header video {
+header .site-head {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    padding: .66667rem 0;
+    z-index: 9999;
+}
+
+header .video {
   position: absolute;
   top: 50%;
   left: 50%;
